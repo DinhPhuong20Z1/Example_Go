@@ -13,6 +13,6 @@ func main() {
 	fmt.Println(b)
 
 	c, _ := vals()
-	// Kí hiệu: _ (blank identifier) : bỏ qua giá trị mà ko có nhu cầu sử dụng
+
 	fmt.Println(c)
 }
