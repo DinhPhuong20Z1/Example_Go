@@ -43,10 +43,13 @@ func (lst *List[T]) Push(v T) {
 }
 
 func (lst *List[T]) GetAll() []T {
+	fmt.Println("abvc", lst)
 	var elems []T
 	for e := lst.head; e != nil; e = e.next {
 		elems = append(elems, e.val)
+		fmt.Println("lst.head", elems)
 	}
+
 	return elems
 }
 
