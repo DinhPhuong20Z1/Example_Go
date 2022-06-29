@@ -77,3 +77,5 @@ https://www.callicoder.com/
 
 https://github.com/video-dev/hls.js/
 
+https://kipalog.com/posts/Golang-nhin-tu-goc-nhin-cua-huong-doi-tuong
+
